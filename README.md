@@ -11,6 +11,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0143-reorder-list](https://github.com/Astaroth233/Leetcode2/tree/master/0143-reorder-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Astaroth233/Leetcode2/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Binary Search
 |  |
@@ -23,4 +24,16 @@
 |  |
 | ------- |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Astaroth233/Leetcode2/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
+## Linked List
+|  |
+| ------- |
+| [0143-reorder-list](https://github.com/Astaroth233/Leetcode2/tree/master/0143-reorder-list) |
+## Stack
+|  |
+| ------- |
+| [0143-reorder-list](https://github.com/Astaroth233/Leetcode2/tree/master/0143-reorder-list) |
+## Recursion
+|  |
+| ------- |
+| [0143-reorder-list](https://github.com/Astaroth233/Leetcode2/tree/master/0143-reorder-list) |
 <!---LeetCode Topics End-->
