@@ -6,6 +6,7 @@
 | ------- |
 | [0162-find-peak-element](https://github.com/Astaroth233/Leetcode2/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Astaroth233/Leetcode2/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0215-kth-largest-element-in-an-array](https://github.com/Astaroth233/Leetcode2/tree/master/0215-kth-largest-element-in-an-array) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Astaroth233/Leetcode2/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2594-minimum-time-to-repair-cars](https://github.com/Astaroth233/Leetcode2/tree/master/2594-minimum-time-to-repair-cars) |
 ## Two Pointers
@@ -36,4 +37,20 @@
 |  |
 | ------- |
 | [0143-reorder-list](https://github.com/Astaroth233/Leetcode2/tree/master/0143-reorder-list) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Astaroth233/Leetcode2/tree/master/0215-kth-largest-element-in-an-array) |
+## Sorting
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Astaroth233/Leetcode2/tree/master/0215-kth-largest-element-in-an-array) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Astaroth233/Leetcode2/tree/master/0215-kth-largest-element-in-an-array) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Astaroth233/Leetcode2/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
